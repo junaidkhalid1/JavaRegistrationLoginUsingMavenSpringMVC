@@ -1,8 +1,7 @@
-package fr.jk.roles;
+package com.jk.account.model;
 
 import javax.persistence.*;
 import java.util.Set;
-import fr.jk.users.*;
 
 @Entity
 @Table(name = "role")
